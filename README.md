@@ -1,2 +1,2 @@
 # TheOdinProject
-Practices and projects
+First movements.
