@@ -1,0 +1,2 @@
+# TheOdinProject
+Practices and projects
